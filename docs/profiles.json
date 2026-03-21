@@ -5,18 +5,159 @@
       "slug": "andrzej-pruszkowski",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 187,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 84.7,
+          "votes_za": 673,
+          "votes_przeciw": 82,
+          "votes_wstrzymal": 99,
+          "votes_brak": 127,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 131,
+          "rebellions": [
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_50",
+              "session": "2024-05-07",
+              "topic": "Wskazanie Wiceprzewodniczącego Rady Miasta Lublin do podpisywania poleceń wyjazdów służbowych Przewodniczącego Rady MIas",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_57",
+              "session": "2024-05-23",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 11-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_58",
+              "session": "2024-05-23",
+              "topic": "uchwały zmieniającej uchwałę nr 1630/LV/2023 Rady Miasta Lublin z dnia 14 grudnia 2023 r. w sprawie wieloletniej prognoz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_99",
+              "session": "2024-06-27",
+              "topic": "przystąpienia do sporządzenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część VC w obszar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_115",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 65-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_122",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_123",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_126",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_128",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_130",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 69-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_132",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 69-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_141",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na oddanie w najem garażu stanowiącego własność Gminy Lublin usytuowanego w budynku przy ul. Puchacza 6 ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_147",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Północn",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_149",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Kasz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_167",
+              "session": "2024-09-05",
+              "topic": "uchwały zmieniającej uchwałę nr 1630/LV/2023 Rady Miasta Lublin z dnia 14 grudnia 2023 r. w sprawie wieloletniej prognoz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_183",
+              "session": "2024-09-05",
+              "topic": "uchwały zmieniającej uchwałę nr 306/VIII/2019 Rady Miasta Lublin z dnia 1 lipca 2019 r. w sprawie ustalenia wysokości op",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_195",
+              "session": "2024-09-05",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II w obszarze B – rejon ul. W.",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_201",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie rozpatrzenia uwag (zał. nr 3) (druk nr 110-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -31,18 +172,89 @@
       "slug": "anna-glijer",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 909,
+          "votes_przeciw": 53,
+          "votes_wstrzymal": 4,
+          "votes_brak": 15,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 10,
+          "rebellions": [
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_316",
+              "session": "2024-11-21",
+              "topic": "wyznaczenia przedstawiciela Rady Miasta Lublin do negocjacji, poprzedzających zawarcie umowy urbanistycznej, w zakresie ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_406",
+              "session": "2024-12-19",
+              "topic": "realizacji zadania inwestycyjnego polegającego na przebudowie ulicy Długiej wraz z oświetleniem, ciągami pieszymi i kana",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -57,18 +269,89 @@
       "slug": "anna-ryfka",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 119,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
+          "aktywnosc": 99.7,
+          "zgodnosc_z_klubem": 98.9,
+          "votes_za": 893,
+          "votes_przeciw": 45,
+          "votes_wstrzymal": 8,
+          "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 10,
+          "rebellions": [
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_519",
+              "session": "2025-04-10",
+              "topic": "wniosek Radnego T. Gontarza - inf, przedst. RM nt, negocjacji zpi",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_798",
+              "session": "2025-10-23",
+              "topic": "prop, przedst. - M. Jakóbczyk",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_931",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -83,18 +366,159 @@
       "slug": "bartosz-margul",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 153,
-          "votes_wstrzymal": 34,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "aktywnosc": 99.8,
+          "zgodnosc_z_klubem": 95.3,
+          "votes_za": 874,
+          "votes_przeciw": 47,
+          "votes_wstrzymal": 44,
+          "votes_brak": 14,
+          "votes_nieobecny": 2,
+          "votes_total": 981,
+          "rebellion_count": 45,
+          "rebellions": [
+            {
+              "vote_id": "vote_3",
+              "session": "2024-05-07",
+              "topic": "wniosek o zamkn. listy mówców",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_56",
+              "session": "2024-05-23",
+              "topic": "Zatwierdzenie protokołu I sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_72",
+              "session": "2024-05-23",
+              "topic": "rezygn. z pracy w Kom. Samorz. M. Kwiatkowskiej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_74",
+              "session": "2024-05-23",
+              "topic": "rezygn. z pracy w Kom. Rozw. M.. Kwiatkowskiej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_76",
+              "session": "2024-05-23",
+              "topic": "rezygnacja z pracy w Kom. GK M. Kamińskiej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_79",
+              "session": "2024-05-23",
+              "topic": "rezygn. R, Derewendy z Kom. Ośw.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_83",
+              "session": "2024-05-23",
+              "topic": "rezygn. K. Florek z pracy w Kom. Rewizyjnej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_88",
+              "session": "2024-06-27",
+              "topic": "Zatwierdzenie protokołu II sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_165",
+              "session": "2024-09-05",
+              "topic": "Zatwierdzenie protokołu III sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_233",
+              "session": "2024-10-17",
+              "topic": "Zatwierdzenie protokołu IV sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_234",
+              "session": "2024-10-17",
+              "topic": "petycji dotyczącej zmiany uchwały nr 921/XXIX/2021 z dnia 27 maja 2021 r. w sprawie opłat za usługi przewozowe osób środ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_286",
+              "session": "2024-11-21",
+              "topic": "wprowadzenie do porządku obrad punktu dot. informacji o budowie spalarni",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_288",
+              "session": "2024-11-21",
+              "topic": "Zatwierdzenie protokołu V sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_347",
+              "session": "2024-11-21",
+              "topic": "rezygnacja P. Popiela z udziału w Komisji Zdrowia i Pomocy Społecznej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_359",
+              "session": "2024-12-19",
+              "topic": "Zatwierdzenie protokołu VI sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -109,18 +533,159 @@
       "slug": "bartlomiej-balaban",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 87.6,
+          "votes_za": 692,
+          "votes_przeciw": 74,
+          "votes_wstrzymal": 180,
+          "votes_brak": 35,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 117,
+          "rebellions": [
+            {
+              "vote_id": "vote_93",
+              "session": "2024-06-27",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_104",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_106",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_114",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_116",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_129",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru F – rejon ul. M",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_130",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 69-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_147",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Północn",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_154",
+              "session": "2024-06-27",
+              "topic": "Reztgnacja J, Budzyńskiej z pracy w Kom. Zdrowia",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_164",
+              "session": "2024-09-05",
+              "topic": "wniosek o ograniczenie wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_166",
+              "session": "2024-09-05",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 89-1 ) z autopopr.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_169",
+              "session": "2024-09-05",
+              "topic": "przystąpienia Gminy Lublin do projektu partnerskiego pn. „Udział dzieci w sprawach lokalnych” (akronim CLAP), realizowan",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_194",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 108-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_195",
+              "session": "2024-09-05",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II w obszarze B – rejon ul. W.",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_200",
+              "session": "2024-09-05",
+              "topic": "Zgodność ze Studium (druk nr 110-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_201",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie rozpatrzenia uwag (zał. nr 3) (druk nr 110-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_202",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 110-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_209",
+              "session": "2024-09-05",
+              "topic": "pozbawienia statusu pomnika przyrody (druk nr 88- 1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -135,18 +700,159 @@
       "slug": "elzbieta-boczkowska",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 136,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 87.9,
+          "votes_za": 763,
+          "votes_przeciw": 81,
+          "votes_wstrzymal": 112,
+          "votes_brak": 25,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 116,
+          "rebellions": [
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_99",
+              "session": "2024-06-27",
+              "topic": "przystąpienia do sporządzenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część VC w obszar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_118",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 66-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_120",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 66-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_121",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru C – rejon ul. T",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_122",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_123",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_126",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_127",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_128",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_133",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IVA w rejonie Specjalnej Stref",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_148",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Wolskie",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_149",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Kasz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_164",
+              "session": "2024-09-05",
+              "topic": "wniosek o ograniczenie wypowiedzi radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_166",
+              "session": "2024-09-05",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 89-1 ) z autopopr.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_183",
+              "session": "2024-09-05",
+              "topic": "uchwały zmieniającej uchwałę nr 306/VIII/2019 Rady Miasta Lublin z dnia 1 lipca 2019 r. w sprawie ustalenia wysokości op",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_195",
+              "session": "2024-09-05",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II w obszarze B – rejon ul. W.",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -161,18 +867,110 @@
       "slug": "elzbieta-dados",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 136,
-          "votes_wstrzymal": 34,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "club": "KO",
+          "frekwencja": 94.1,
+          "aktywnosc": 94.4,
+          "zgodnosc_z_klubem": 97.8,
+          "votes_za": 548,
+          "votes_przeciw": 39,
+          "votes_wstrzymal": 7,
+          "votes_brak": 332,
+          "votes_nieobecny": 55,
+          "votes_total": 981,
+          "rebellion_count": 13,
+          "rebellions": [
+            {
+              "vote_id": "vote_33",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji BE - E. Boczkowska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_288",
+              "session": "2024-11-21",
+              "topic": "Zatwierdzenie protokołu V sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_475",
+              "session": "2025-03-20",
+              "topic": "skargi na działanie Dyrektora Przedszkola nr 10 w Lublinie (druk nr 343-1) – projekt Komisji Skarg, Wniosków i Petycji -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_608",
+              "session": "2025-05-29",
+              "topic": "kandydatura Radnego Z. Drozda (druk nr 441-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_658",
+              "session": "2025-06-26",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 455-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_736",
+              "session": "2025-09-04",
+              "topic": "wniosek o obradowanie be przerwy obiadowej",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -187,18 +985,159 @@
       "slug": "eugeniusz-bielak",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 204,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 84.9,
+          "votes_za": 693,
+          "votes_przeciw": 148,
+          "votes_wstrzymal": 124,
+          "votes_brak": 16,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 146,
+          "rebellions": [
+            {
+              "vote_id": "vote_35",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - E .Bielak",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_57",
+              "session": "2024-05-23",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 11-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_62",
+              "session": "2024-05-23",
+              "topic": "określenia zasad wyznaczania składu oraz zasad działania Komitetu Rewitalizacji Miasta Lublin (druk nr 25-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_94",
+              "session": "2024-06-27",
+              "topic": "zmiany uchwaty budżetowej Miasta Lublin na 2024 rok (druk nr 33-1)",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_114",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_118",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 66-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_119",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 66-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_120",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 66-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_121",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru C – rejon ul. T",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_122",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_123",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_127",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 68-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_128",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 68-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_129",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru F – rejon ul. M",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_130",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 69-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_131",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 69-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_132",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 69-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_133",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IVA w rejonie Specjalnej Stref",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -213,18 +1152,159 @@
       "slug": "jadwiga-mach",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 119,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 96.7,
+          "votes_za": 859,
+          "votes_przeciw": 44,
+          "votes_wstrzymal": 26,
+          "votes_brak": 52,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 31,
+          "rebellions": [
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_44",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - T. Pitucha",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_234",
+              "session": "2024-10-17",
+              "topic": "petycji dotyczącej zmiany uchwały nr 921/XXIX/2021 z dnia 27 maja 2021 r. w sprawie opłat za usługi przewozowe osób środ",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_363",
+              "session": "2024-12-19",
+              "topic": "wniosek o skrócenie wypowiedzi do 5 min,",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_370",
+              "session": "2024-12-19",
+              "topic": "przystąpienia do sporządzenia planu i zmiany miejscowego planu zagospodarowania przestrzennego Ekologicznego Systemu Obs",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_405",
+              "session": "2024-12-19",
+              "topic": "wnosek o zakończenie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_420",
+              "session": "2025-02-06",
+              "topic": "Wniosek o skrócenie czasu wypowiedzi do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_470",
+              "session": "2025-03-20",
+              "topic": "wniosek o wprow. do porz. informacji dot. budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_471",
+              "session": "2025-03-20",
+              "topic": "przesunięcie punktu 15.31. jako punkt 4.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_472",
+              "session": "2025-03-20",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 min.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_510",
+              "session": "2025-03-20",
+              "topic": "wniosek o zamknięcie listy mówców",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_517",
+              "session": "2025-03-20",
+              "topic": "określenia wysokości opłaty za pobyt w Ośrodku Wczesnej Interwencji dla Osób z Problemem Alkoholowym i ich Rodzin (druk ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_553",
+              "session": "2025-04-10",
+              "topic": "zaskarżenia do sądu administracyjnego rozstrzygnięcia nadzorczego Wojewody Lubelskiego (druk nr 393-1).",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -239,18 +1319,110 @@
       "slug": "jaroslaw-pakula",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 85,
-          "votes_wstrzymal": 85,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "club": "KO",
+          "frekwencja": 94.1,
+          "aktywnosc": 96.4,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 837,
+          "votes_przeciw": 46,
+          "votes_wstrzymal": 12,
+          "votes_brak": 51,
+          "votes_nieobecny": 35,
+          "votes_total": 981,
+          "rebellion_count": 13,
+          "rebellions": [
+            {
+              "vote_id": "vote_30",
+              "session": "2024-05-07",
+              "topic": "Wybór Przewodniczącego Komisji Skarg, Wniosków i Petycji - Piotr Gawryszczak",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_44",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - T. Pitucha",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_72",
+              "session": "2024-05-23",
+              "topic": "rezygn. z pracy w Kom. Samorz. M. Kwiatkowskiej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_316",
+              "session": "2024-11-21",
+              "topic": "wyznaczenia przedstawiciela Rady Miasta Lublin do negocjacji, poprzedzających zawarcie umowy urbanistycznej, w zakresie ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -265,18 +1437,159 @@
       "slug": "justyna-budzynska",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 153,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "aktywnosc": 99.1,
+          "zgodnosc_z_klubem": 80.1,
+          "votes_za": 540,
+          "votes_przeciw": 101,
+          "votes_wstrzymal": 204,
+          "votes_brak": 127,
+          "votes_nieobecny": 9,
+          "votes_total": 981,
+          "rebellion_count": 168,
+          "rebellions": [
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_50",
+              "session": "2024-05-07",
+              "topic": "Wskazanie Wiceprzewodniczącego Rady Miasta Lublin do podpisywania poleceń wyjazdów służbowych Przewodniczącego Rady MIas",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_53",
+              "session": "2024-05-23",
+              "topic": "Wprow. do porz. obrad druku nr 28-1",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_114",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_121",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru C – rejon ul. T",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_122",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_123",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_126",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_127",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_133",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IVA w rejonie Specjalnej Stref",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_148",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Wolskie",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_149",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Kasz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_166",
+              "session": "2024-09-05",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 89-1 ) z autopopr.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_185",
+              "session": "2024-09-05",
+              "topic": "ustalenia opłaty za pobyt dzieci w żłobkach prowadzonych przez Gminę Lublin oraz maksymalnej wysokości opłaty za wyżywie",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_190",
+              "session": "2024-09-05",
+              "topic": "przystąpienia do sporządzenia miejscowych planów zagospodarowania przestrzennego miasta Lublin – część VI w rejonie ulic",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_195",
+              "session": "2024-09-05",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II w obszarze B – rejon ul. W.",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_196",
+              "session": "2024-09-05",
+              "topic": "Zgodność ze Studium (druk nr 109-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_197",
+              "session": "2024-09-05",
+              "topic": "Treść załącznika nr 3 (druk nr 109-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_198",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 109-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -291,18 +1604,89 @@
       "slug": "kamila-florek",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 911,
+          "votes_przeciw": 53,
+          "votes_wstrzymal": 7,
+          "votes_brak": 10,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 10,
+          "rebellions": [
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_510",
+              "session": "2025-03-20",
+              "topic": "wniosek o zamknięcie listy mówców",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_798",
+              "session": "2025-10-23",
+              "topic": "prop, przedst. - M. Jakóbczyk",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_875",
+              "session": "2025-11-20",
+              "topic": "wyboru przewodniczącego komisji do dokonania zniszczenia zgłoszeń kandydatów na ławników do Sądu Okręgowego w Lublinie w",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -317,18 +1701,110 @@
       "slug": "konrad-wcislo",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "club": "KO",
+          "frekwencja": 88.2,
+          "aktywnosc": 89.3,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 813,
+          "votes_przeciw": 51,
+          "votes_wstrzymal": 3,
+          "votes_brak": 9,
+          "votes_nieobecny": 105,
+          "votes_total": 981,
+          "rebellion_count": 13,
+          "rebellions": [
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_322",
+              "session": "2024-11-21",
+              "topic": "wysokości opłat obowiązujących na cmentarzach komunalnych w Lublinie (druk nr 189-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_358",
+              "session": "2024-12-19",
+              "topic": "wniosek o wprowadzenie do porządku obrad pktu Informacja nt, budowy spalarni odpadów",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_406",
+              "session": "2024-12-19",
+              "topic": "realizacji zadania inwestycyjnego polegającego na przebudowie ulicy Długiej wraz z oświetleniem, ciągami pieszymi i kana",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_503",
+              "session": "2025-03-20",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie ulicy Dra W",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_519",
+              "session": "2025-04-10",
+              "topic": "wniosek Radnego T. Gontarza - inf, przedst. RM nt, negocjacji zpi",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_742",
+              "session": "2025-09-04",
+              "topic": "wniosek o udzielenie głosu Mieszkance",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -343,18 +1819,159 @@
       "slug": "leszek-daniewski",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 34,
-          "votes_wstrzymal": 136,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 97.2,
+          "votes_za": 815,
+          "votes_przeciw": 39,
+          "votes_wstrzymal": 26,
+          "votes_brak": 101,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 25,
+          "rebellions": [
+            {
+              "vote_id": "vote_33",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji BE - E. Boczkowska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_35",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - E .Bielak",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_37",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Gosp. Kom. - T. Gontarz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_39",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia - J. Budzyńska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_42",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - B. Bałaban",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_154",
+              "session": "2024-06-27",
+              "topic": "Reztgnacja J, Budzyńskiej z pracy w Kom. Zdrowia",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_316",
+              "session": "2024-11-21",
+              "topic": "wyznaczenia przedstawiciela Rady Miasta Lublin do negocjacji, poprzedzających zawarcie umowy urbanistycznej, w zakresie ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_363",
+              "session": "2024-12-19",
+              "topic": "wniosek o skrócenie wypowiedzi do 5 min,",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_373",
+              "session": "2024-12-19",
+              "topic": "uwaga - I wył. lp, 105 (druk nr 244-1) - nieuwzgl,",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_458",
+              "session": "2025-02-06",
+              "topic": "nabycia na rzecz Gminy Lublin nieruchomości położonej w Lublinie przy ulicy Krężnickiej (druk nr 279-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_470",
+              "session": "2025-03-20",
+              "topic": "wniosek o wprow. do porz. informacji dot. budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_471",
+              "session": "2025-03-20",
+              "topic": "przesunięcie punktu 15.31. jako punkt 4.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_643",
+              "session": "2025-06-26",
+              "topic": "wniosek o skrócenie wypowiedzi Radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_672",
+              "session": "2025-06-26",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości zabudowanej stanowiącej własność Gminy Lublin położonej w Lublinie przy",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_730",
+              "session": "2025-09-04",
+              "topic": "Sposób realizacji inwestycji (...) - zał. nr 4 (druk nr 494-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -369,44 +1986,82 @@
       "slug": "magdalena-kaminska",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 153,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 888,
+          "votes_przeciw": 42,
+          "votes_wstrzymal": 13,
+          "votes_brak": 38,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "roles": [],
-          "notes": "",
-          "former": false,
-          "mid_term": false
-        }
-      }
-    },
-    {
-      "name": "Magdalena Szczygieł- Mitrus",
-      "slug": "magdalena-szczygiel--mitrus",
-      "kadencje": {
-        "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 3.9,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 0,
-          "votes_przeciw": 34,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 9,
+          "rebellions": [
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_286",
+              "session": "2024-11-21",
+              "topic": "wprowadzenie do porządku obrad punktu dot. informacji o budowie spalarni",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_358",
+              "session": "2024-12-19",
+              "topic": "wniosek o wprowadzenie do porządku obrad pktu Informacja nt, budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_443",
+              "session": "2025-02-06",
+              "topic": "przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego miasta Lublin oraz zmian miejscowych pla",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_470",
+              "session": "2025-03-20",
+              "topic": "wniosek o wprow. do porz. informacji dot. budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_471",
+              "session": "2025-03-20",
+              "topic": "przesunięcie punktu 15.31. jako punkt 4.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_736",
+              "session": "2025-09-04",
+              "topic": "wniosek o obradowanie be przerwy obiadowej",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -421,18 +2076,145 @@
       "slug": "magdalena-szczygiel-mitrus",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
-          "aktywnosc": 96.1,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 136,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
+          "aktywnosc": 100.0,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 902,
+          "votes_przeciw": 40,
+          "votes_wstrzymal": 20,
+          "votes_brak": 19,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 18,
+          "rebellions": [
+            {
+              "vote_id": "vote_84",
+              "session": "2024-05-23",
+              "topic": "przyjęcie do Kom. Rewizyjnej M. Szzygieł-Mitrus",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_151",
+              "session": "2024-06-27",
+              "topic": "wydzierżawienia nieruchomości stanowiących własność Gminy Lublin położonych w Lublinie przy ul. Wyżynnej (druk nr 55-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_163",
+              "session": "2024-09-05",
+              "topic": "wniosek o wprow. pktu dot. dworca metropolitalnego",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_347",
+              "session": "2024-11-21",
+              "topic": "rezygnacja P. Popiela z udziału w Komisji Zdrowia i Pomocy Społecznej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_348",
+              "session": "2024-11-21",
+              "topic": "wstąpienie P. Popiela do Komisji Gospodarki Komunalnej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_358",
+              "session": "2024-12-19",
+              "topic": "wniosek o wprowadzenie do porządku obrad pktu Informacja nt, budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_406",
+              "session": "2024-12-19",
+              "topic": "realizacji zadania inwestycyjnego polegającego na przebudowie ulicy Długiej wraz z oświetleniem, ciągami pieszymi i kana",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_471",
+              "session": "2025-03-20",
+              "topic": "przesunięcie punktu 15.31. jako punkt 4.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_608",
+              "session": "2025-05-29",
+              "topic": "kandydatura Radnego Z. Drozda (druk nr 441-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_658",
+              "session": "2025-06-26",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 455-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_736",
+              "session": "2025-09-04",
+              "topic": "wniosek o obradowanie be przerwy obiadowej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -447,18 +2229,159 @@
       "slug": "marcin-bubicz",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 119,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 95.9,
+          "votes_za": 853,
+          "votes_przeciw": 50,
+          "votes_wstrzymal": 29,
+          "votes_brak": 49,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 38,
+          "rebellions": [
+            {
+              "vote_id": "vote_30",
+              "session": "2024-05-07",
+              "topic": "Wybór Przewodniczącego Komisji Skarg, Wniosków i Petycji - Piotr Gawryszczak",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_74",
+              "session": "2024-05-23",
+              "topic": "rezygn. z pracy w Kom. Rozw. M.. Kwiatkowskiej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_83",
+              "session": "2024-05-23",
+              "topic": "rezygn. K. Florek z pracy w Kom. Rewizyjnej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_176",
+              "session": "2024-09-05",
+              "topic": "obwieszczenie Rady Miasta Lublin w sprawie ogłoszenia jednolitego tekstu uchwały w sprawie nadania statutu instytucji ku",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_219",
+              "session": "2024-09-05",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Wład",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_265",
+              "session": "2024-10-17",
+              "topic": "nieodpłatnego nabycia na rzecz Gminy Lublin nieruchomości położonej w Lublinie przy ul. Stary Gaj oznaczonej jako działk",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_270",
+              "session": "2024-10-17",
+              "topic": "wyrażenia zgody na sprzedaż nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Bolesława Prus",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_347",
+              "session": "2024-11-21",
+              "topic": "rezygnacja P. Popiela z udziału w Komisji Zdrowia i Pomocy Społecznej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_405",
+              "session": "2024-12-19",
+              "topic": "wnosek o zakończenie dyskusji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_503",
+              "session": "2025-03-20",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie ulicy Dra W",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_513",
+              "session": "2025-03-20",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Relakso",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_527",
+              "session": "2025-04-10",
+              "topic": "wprowadzenie do porządku obrad druku nr 393-1",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_573",
+              "session": "2025-05-29",
+              "topic": "uchwały uchylającej uchwałę w sprawie przystąpienia do sporządzenia zmiany miejscowego planu zagospodarowania przestrzen",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_615",
+              "session": "2025-05-29",
+              "topic": "wydania opinii o lokalizacji kasyna gry w Lublinie przy ul. Prezydenta Gabriela Narutowicza 58/60 (druk nr 426-1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -473,18 +2396,159 @@
       "slug": "marcin-jakobczyk",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 102,
-          "votes_wstrzymal": 102,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "aktywnosc": 99.5,
+          "zgodnosc_z_klubem": 86.0,
+          "votes_za": 695,
+          "votes_przeciw": 75,
+          "votes_wstrzymal": 153,
+          "votes_brak": 53,
+          "votes_nieobecny": 5,
+          "votes_total": 981,
+          "rebellion_count": 129,
+          "rebellions": [
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_36",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji GK - L. Daniewski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_50",
+              "session": "2024-05-07",
+              "topic": "Wskazanie Wiceprzewodniczącego Rady Miasta Lublin do podpisywania poleceń wyjazdów służbowych Przewodniczącego Rady MIas",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_93",
+              "session": "2024-06-27",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_94",
+              "session": "2024-06-27",
+              "topic": "zmiany uchwaty budżetowej Miasta Lublin na 2024 rok (druk nr 33-1)",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_104",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_106",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_108",
+              "session": "2024-06-27",
+              "topic": "sposób realizacji inwestycji (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_110",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_112",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_115",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_132",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 69-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_164",
+              "session": "2024-09-05",
+              "topic": "wniosek o ograniczenie wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_169",
+              "session": "2024-09-05",
+              "topic": "przystąpienia Gminy Lublin do projektu partnerskiego pn. „Udział dzieci w sprawach lokalnych” (akronim CLAP), realizowan",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -499,18 +2563,256 @@
       "slug": "marcin-wronski",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 68,
-          "votes_wstrzymal": 102,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 97.9,
+          "votes_za": 913,
+          "votes_przeciw": 38,
+          "votes_wstrzymal": 24,
+          "votes_brak": 6,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 20,
+          "rebellions": [
+            {
+              "vote_id": "vote_37",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Gosp. Kom. - T. Gontarz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_42",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - B. Bałaban",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_44",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - T. Pitucha",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_49",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds, Rodziny - M. Jakóbczyk",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_227",
+              "session": "2024-09-05",
+              "topic": "rezygnacja z pracy w Kom. Gosp. Kom. - Z. Drozd",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_358",
+              "session": "2024-12-19",
+              "topic": "wniosek o wprowadzenie do porządku obrad pktu Informacja nt, budowy spalarni odpadów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_406",
+              "session": "2024-12-19",
+              "topic": "realizacji zadania inwestycyjnego polegającego na przebudowie ulicy Długiej wraz z oświetleniem, ciągami pieszymi i kana",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_408",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego M. Bubicza (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_471",
+              "session": "2025-03-20",
+              "topic": "przesunięcie punktu 15.31. jako punkt 4.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_658",
+              "session": "2025-06-26",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 455-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_736",
+              "session": "2025-09-04",
+              "topic": "wniosek o obradowanie be przerwy obiadowej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Marta Gutkowska",
+      "slug": "marta-gutkowska",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "frekwencja": 94.1,
+          "aktywnosc": 94.8,
+          "zgodnosc_z_klubem": 98.9,
+          "votes_za": 875,
+          "votes_przeciw": 45,
+          "votes_wstrzymal": 7,
+          "votes_brak": 3,
+          "votes_nieobecny": 0,
+          "votes_total": 981,
+          "rebellion_count": 10,
+          "rebellions": [
+            {
+              "vote_id": "vote_56",
+              "session": "2024-05-23",
+              "topic": "Zatwierdzenie protokołu I sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_85",
+              "session": "2024-06-27",
+              "topic": "wniosek o wprow. do porz. obrad projektu stanowiska (druk nr 74-1)",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_510",
+              "session": "2025-03-20",
+              "topic": "wniosek o zamknięcie listy mówców",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_798",
+              "session": "2025-10-23",
+              "topic": "prop, przedst. - M. Jakóbczyk",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_874",
+              "session": "2025-11-20",
+              "topic": "powołania komisji do dokonania zniszczenia zgłoszeń kandydatów na ławników do Sądu Okręgowego w Lublinie w wyborach uzup",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -525,18 +2827,131 @@
       "slug": "monika-kwiatkowska",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 119,
-          "votes_wstrzymal": 51,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "club": "KO",
+          "frekwencja": 94.1,
+          "aktywnosc": 96.4,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 783,
+          "votes_przeciw": 42,
+          "votes_wstrzymal": 14,
+          "votes_brak": 107,
+          "votes_nieobecny": 35,
+          "votes_total": 981,
+          "rebellion_count": 16,
+          "rebellions": [
+            {
+              "vote_id": "vote_39",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia - J. Budzyńska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_41",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - P. Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_47",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorz - R. Skrzetuski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_316",
+              "session": "2024-11-21",
+              "topic": "wyznaczenia przedstawiciela Rady Miasta Lublin do negocjacji, poprzedzających zawarcie umowy urbanistycznej, w zakresie ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_408",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego M. Bubicza (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_691",
+              "session": "2025-09-04",
+              "topic": "wniosek Radnego R. Derewendy",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_842",
+              "session": "2025-11-20",
+              "topic": "zamiaru przekształcenia Szkoły Podstawowej nr 20 im. Jarosława Dąbrowskiego w Lublinie (druk nr 611-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_931",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_941",
+              "session": "2026-02-05",
+              "topic": "skargi na działania Dyrektora Miejskiego Urzędu Pracy w Lublinie (druk nr 711-1) - skarga niezasadna;",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -551,18 +2966,96 @@
       "slug": "monika-orzechowska",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 98.8,
+          "votes_za": 878,
+          "votes_przeciw": 49,
+          "votes_wstrzymal": 11,
+          "votes_brak": 43,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 11,
+          "rebellions": [
+            {
+              "vote_id": "vote_30",
+              "session": "2024-05-07",
+              "topic": "Wybór Przewodniczącego Komisji Skarg, Wniosków i Petycji - Piotr Gawryszczak",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_408",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego M. Bubicza (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_439",
+              "session": "2025-02-06",
+              "topic": "Programu wspierania laureatów i finalistów zawodów stopnia centralnego olimpiad oraz turniejów, studiujących na terenie ",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_505",
+              "session": "2025-03-20",
+              "topic": "kandydatura - Radosław Skrzetuski (druk nr 359-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_925",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie ulic: Nałęc",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_927",
+              "session": "2025-12-18",
+              "topic": "kandydatura Radnego R. Skrzetuskiego",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -577,18 +3070,110 @@
       "slug": "piotr-chodun",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 98.7,
+          "votes_za": 915,
+          "votes_przeciw": 52,
+          "votes_wstrzymal": 12,
+          "votes_brak": 2,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 13,
+          "rebellions": [
+            {
+              "vote_id": "vote_260",
+              "session": "2024-10-17",
+              "topic": "wniosek Radnego Z. Drozda o procedowanie bez przerwy obiadowej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_405",
+              "session": "2024-12-19",
+              "topic": "wnosek o zakończenie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_426",
+              "session": "2025-02-06",
+              "topic": "wniosek o udzielenie głosu mieszkance",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_510",
+              "session": "2025-03-20",
+              "topic": "wniosek o zamknięcie listy mówców",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_674",
+              "session": "2025-06-26",
+              "topic": "kand. Radnej E. .Boczkowskiej (druk nr 478-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_700",
+              "session": "2025-09-04",
+              "topic": "wniosek o zamkn. dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_798",
+              "session": "2025-10-23",
+              "topic": "prop, przedst. - M. Jakóbczyk",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -603,18 +3188,159 @@
       "slug": "piotr-gawryszczak",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 68,
-          "votes_wstrzymal": 136,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 78.2,
+          "votes_za": 529,
+          "votes_przeciw": 151,
+          "votes_wstrzymal": 59,
+          "votes_brak": 242,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 161,
+          "rebellions": [
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_36",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji GK - L. Daniewski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_38",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia i Pom, Społ. - E. Dados",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_40",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - J. Mach",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_51",
+              "session": "2024-05-07",
+              "topic": "Ustalenie wynagrodzenia miesięcznego dla Prezydenta Miasta Lublin",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_58",
+              "session": "2024-05-23",
+              "topic": "uchwały zmieniającej uchwałę nr 1630/LV/2023 Rady Miasta Lublin z dnia 14 grudnia 2023 r. w sprawie wieloletniej prognoz",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_74",
+              "session": "2024-05-23",
+              "topic": "rezygn. z pracy w Kom. Rozw. M.. Kwiatkowskiej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_76",
+              "session": "2024-05-23",
+              "topic": "rezygnacja z pracy w Kom. GK M. Kamińskiej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_94",
+              "session": "2024-06-27",
+              "topic": "zmiany uchwaty budżetowej Miasta Lublin na 2024 rok (druk nr 33-1)",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_95",
+              "session": "2024-06-27",
+              "topic": "uchwały zmieniającej uchwałę nr 1630/LV/2023 Rady Miasta Lublin z dnia 14 grudnia 2023 r. w sprawie wieloletniej prognoz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_114",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_115",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_116",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_117",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II dla obszarów: A – rejon uli",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_126",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_127",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -629,18 +3355,159 @@
       "slug": "piotr-popiel",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 17,
-          "votes_wstrzymal": 187,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 81.7,
+          "votes_za": 666,
+          "votes_przeciw": 117,
+          "votes_wstrzymal": 196,
+          "votes_brak": 2,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 179,
+          "rebellions": [
+            {
+              "vote_id": "vote_26",
+              "session": "2024-05-07",
+              "topic": "Wybór członków Komisji Skarg, Wniosków i Petycji - Piotr Popiel",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_29",
+              "session": "2024-05-07",
+              "topic": "Wybór Przewodniczącego Komisji Skarg, Wniosków i Petycji - Anna Glijer",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_32",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji BE - B, Margul",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_36",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji GK - L. Daniewski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_38",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia i Pom, Społ. - E. Dados",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_40",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - J. Mach",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_57",
+              "session": "2024-05-23",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 11-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_67",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Jana Ka",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_68",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiących własność Gminy Lublin położonych w Lublinie przy ul. Chemi",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_69",
+              "session": "2024-05-23",
+              "topic": "wydzierżawienia nieruchomości Gminy Lublin położonych w Lublinie przy ul. Stadionowej, ul. Stadionowej 1, ul. Lubelskieg",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_81",
+              "session": "2024-05-23",
+              "topic": "rezygn. M. Bubicza z pracy w Kom. Skarg, Wniosków i Petycji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_99",
+              "session": "2024-06-27",
+              "topic": "przystąpienia do sporządzenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część VC w obszar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_103",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_106",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_107",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -655,18 +3522,159 @@
       "slug": "radoslaw-skrzetuski",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 51,
-          "votes_wstrzymal": 136,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 87.9,
+          "votes_za": 760,
+          "votes_przeciw": 74,
+          "votes_wstrzymal": 115,
+          "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 115,
+          "rebellions": [
+            {
+              "vote_id": "vote_34",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Rozwoju - M. Bubicz",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_36",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji GK - L. Daniewski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_38",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia i Pom, Społ. - E. Dados",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_40",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - J. Mach",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_93",
+              "session": "2024-06-27",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_94",
+              "session": "2024-06-27",
+              "topic": "zmiany uchwaty budżetowej Miasta Lublin na 2024 rok (druk nr 33-1)",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_106",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_110",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_115",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_116",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_117",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II dla obszarów: A – rejon uli",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_119",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 66-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_120",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 66-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_121",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru C – rejon ul. T",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_123",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 67-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_127",
+              "session": "2024-06-27",
+              "topic": "Sposób rozpatrzenia uwagi (druk nr 68-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -681,18 +3689,159 @@
       "slug": "robert-derewenda",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 646,
-          "votes_przeciw": 204,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 72.8,
+          "votes_za": 428,
+          "votes_przeciw": 87,
+          "votes_wstrzymal": 300,
+          "votes_brak": 166,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 222,
+          "rebellions": [
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_50",
+              "session": "2024-05-07",
+              "topic": "Wskazanie Wiceprzewodniczącego Rady Miasta Lublin do podpisywania poleceń wyjazdów służbowych Przewodniczącego Rady MIas",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_51",
+              "session": "2024-05-07",
+              "topic": "Ustalenie wynagrodzenia miesięcznego dla Prezydenta Miasta Lublin",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_56",
+              "session": "2024-05-23",
+              "topic": "Zatwierdzenie protokołu I sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_88",
+              "session": "2024-06-27",
+              "topic": "Zatwierdzenie protokołu II sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_93",
+              "session": "2024-06-27",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 minut",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_97",
+              "session": "2024-06-27",
+              "topic": "ustalenia planu sieci publicznych szkół ponadpodstawowych działających na terenie miasta Lublin (druk nr 52- 1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_106",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 63-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_110",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_125",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru D – rejon ul. G",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_129",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru F – rejon ul. M",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_133",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IVA w rejonie Specjalnej Stref",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_141",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na oddanie w najem garażu stanowiącego własność Gminy Lublin usytuowanego w budynku przy ul. Puchacza 6 ",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_147",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Północn",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_164",
+              "session": "2024-09-05",
+              "topic": "wniosek o ograniczenie wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_165",
+              "session": "2024-09-05",
+              "topic": "Zatwierdzenie protokołu III sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_168",
+              "session": "2024-09-05",
+              "topic": "uchwały zmieniającej uchwałę nr 33/III/2024 Rady Miasta Lublin z dnia 27 czerwca 2024 r. w sprawie wspólnej obsługi orga",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -707,18 +3856,159 @@
       "slug": "tomasz-gontarz",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 663,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 34,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 81.3,
+          "votes_za": 598,
+          "votes_przeciw": 95,
+          "votes_wstrzymal": 256,
+          "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 177,
+          "rebellions": [
+            {
+              "vote_id": "vote_51",
+              "session": "2024-05-07",
+              "topic": "Ustalenie wynagrodzenia miesięcznego dla Prezydenta Miasta Lublin",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_68",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiących własność Gminy Lublin położonych w Lublinie przy ul. Chemi",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_93",
+              "session": "2024-06-27",
+              "topic": "wniosek o ograniczenie czasu wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_125",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru D – rejon ul. G",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_129",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru F – rejon ul. M",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_133",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IVA w rejonie Specjalnej Stref",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_149",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Kasz",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_164",
+              "session": "2024-09-05",
+              "topic": "wniosek o ograniczenie wypowiedzi radnych do 5 minut",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_166",
+              "session": "2024-09-05",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 89-1 ) z autopopr.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_185",
+              "session": "2024-09-05",
+              "topic": "ustalenia opłaty za pobyt dzieci w żłobkach prowadzonych przez Gminę Lublin oraz maksymalnej wysokości opłaty za wyżywie",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_189",
+              "session": "2024-09-05",
+              "topic": "przystąpienia do sporządzenia zmian miejscowego planu zagospodarowania przestrzennego miasta Lublin - część Ili w rejoni",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_194",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 108-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_197",
+              "session": "2024-09-05",
+              "topic": "Treść załącznika nr 3 (druk nr 109-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_198",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 109-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_199",
+              "session": "2024-09-05",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II w rejonie ulic: Berylowej i",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_202",
+              "session": "2024-09-05",
+              "topic": "Rozstrzygnięcie o sposobie realizacji inwestycji (...) (druk nr 110-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_203",
+              "session": "2024-09-05",
+              "topic": "uchwalenia miejscowego planu zagospodarowania przestrzennego miasta Lublin – część VIB (Majdan Tatarski, Kośminek – rejo",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_209",
+              "session": "2024-09-05",
+              "topic": "pozbawienia statusu pomnika przyrody (druk nr 88- 1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_232",
+              "session": "2024-10-17",
+              "topic": "ogranicz. dług wyst. radnych do 5 min.",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -733,18 +4023,159 @@
       "slug": "tomasz-pitucha",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
-          "frekwencja": 100.0,
-          "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 697,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 0,
-          "votes_brak": 0,
-          "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "club": "PiS",
+          "frekwencja": 94.1,
+          "aktywnosc": 93.0,
+          "zgodnosc_z_klubem": 85.1,
+          "votes_za": 534,
+          "votes_przeciw": 88,
+          "votes_wstrzymal": 149,
+          "votes_brak": 141,
+          "votes_nieobecny": 69,
+          "votes_total": 981,
+          "rebellion_count": 115,
+          "rebellions": [
+            {
+              "vote_id": "vote_3",
+              "session": "2024-05-07",
+              "topic": "wniosek o zamkn. listy mówców",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_43",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Kultury - M. Wroński",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_56",
+              "session": "2024-05-23",
+              "topic": "Zatwierdzenie protokołu I sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_83",
+              "session": "2024-05-23",
+              "topic": "rezygn. K. Florek z pracy w Kom. Rewizyjnej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_99",
+              "session": "2024-06-27",
+              "topic": "przystąpienia do sporządzenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część VC w obszar",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_102",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 62-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_110",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_111",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_112",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (druk nr 64-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_117",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część II dla obszarów: A – rejon uli",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_125",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru D – rejon ul. G",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_146",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Wyzwole",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_147",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Północn",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_148",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie przy ul. Wolskie",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_149",
+              "session": "2024-06-27",
+              "topic": "wyrażenia zgody na sprzedaż części nieruchomości stanowiącej własność Gminy Lublin położonej w Lublinie w pobl. ul. Kasz",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_169",
+              "session": "2024-09-05",
+              "topic": "przystąpienia Gminy Lublin do projektu partnerskiego pn. „Udział dzieci w sprawach lokalnych” (akronim CLAP), realizowan",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_183",
+              "session": "2024-09-05",
+              "topic": "uchwały zmieniającej uchwałę nr 306/VIII/2019 Rady Miasta Lublin z dnia 1 lipca 2019 r. w sprawie ustalenia wysokości op",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_185",
+              "session": "2024-09-05",
+              "topic": "ustalenia opłaty za pobyt dzieci w żłobkach prowadzonych przez Gminę Lublin oraz maksymalnej wysokości opłaty za wyżywie",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -759,18 +4190,103 @@
       "slug": "zbigniew-jurkowski",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 170,
-          "votes_wstrzymal": 17,
-          "votes_brak": 0,
+          "zgodnosc_z_klubem": 98.8,
+          "votes_za": 908,
+          "votes_przeciw": 56,
+          "votes_wstrzymal": 2,
+          "votes_brak": 15,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 12,
+          "rebellions": [
+            {
+              "vote_id": "vote_32",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji BE - B, Margul",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_70",
+              "session": "2024-05-23",
+              "topic": "wyrażenia zgody na rozwiązanie stosunku pracy z Radnym Rady Miasta Lublin (druk nr 26-1).",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_408",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego M. Bubicza (druk nr 266-1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_409",
+              "session": "2024-12-19",
+              "topic": "poprawka Radnego A. Pruszkowskiego (druk nr 266-1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_410",
+              "session": "2024-12-19",
+              "topic": "nadania statutu instytucji kultury pn. „Europejska Stolica Kultury Lublin 2029” (druk nr 266-1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_422",
+              "session": "2025-02-06",
+              "topic": "skargi na działanie Dyrektora Szkoły Podstawowej nr 29 im. Adama Mickiewicza w Lublinie (druk nr 301-1) – projekt Komisj",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_754",
+              "session": "2025-10-23",
+              "topic": "wniosek o zamknięcie dyskusji",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_798",
+              "session": "2025-10-23",
+              "topic": "prop, przedst. - M. Jakóbczyk",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_802",
+              "session": "2025-10-23",
+              "topic": "prop. przedst. - R. Skrzetuski",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
+              "session": "2025-12-18",
+              "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_930",
+              "session": "2025-12-18",
+              "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],
@@ -785,18 +4301,159 @@
       "slug": "zdzislaw-drozd",
       "kadencje": {
         "2024-2029": {
-          "club": "?",
+          "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 0,
-          "votes_za": 680,
-          "votes_przeciw": 51,
-          "votes_wstrzymal": 119,
-          "votes_brak": 17,
+          "zgodnosc_z_klubem": 81.9,
+          "votes_za": 610,
+          "votes_przeciw": 108,
+          "votes_wstrzymal": 203,
+          "votes_brak": 60,
           "votes_nieobecny": 0,
-          "votes_total": 867,
-          "rebellion_count": 0,
-          "rebellions": [],
+          "votes_total": 981,
+          "rebellion_count": 167,
+          "rebellions": [
+            {
+              "vote_id": "vote_36",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji GK - L. Daniewski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_38",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Zdrowia i Pom, Społ. - E. Dados",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_40",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji OiW - J. Mach",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_45",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Sportu - P. Choduń",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_46",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji Samorządności – Z. Jurkowski",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_48",
+              "session": "2024-05-07",
+              "topic": "Kandydatura na Przew, Komisji ds. Rodziny - M. Kamińska",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_55",
+              "session": "2024-05-23",
+              "topic": "wniosek o ograniczeie wypowiedzi radnych do 5 minut",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_56",
+              "session": "2024-05-23",
+              "topic": "Zatwierdzenie protokołu I sesji Rady Miasta.",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_57",
+              "session": "2024-05-23",
+              "topic": "zmiany uchwały budżetowej Miasta Lublin na 2024 rok (druk nr 11-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_62",
+              "session": "2024-05-23",
+              "topic": "określenia zasad wyznaczania składu oraz zasad działania Komitetu Rewitalizacji Miasta Lublin (druk nr 25-1);",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_76",
+              "session": "2024-05-23",
+              "topic": "rezygnacja z pracy w Kom. GK M. Kamińskiej",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_94",
+              "session": "2024-06-27",
+              "topic": "zmiany uchwaty budżetowej Miasta Lublin na 2024 rok (druk nr 33-1)",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_95",
+              "session": "2024-06-27",
+              "topic": "uchwały zmieniającej uchwałę nr 1630/LV/2023 Rady Miasta Lublin z dnia 14 grudnia 2023 r. w sprawie wieloletniej prognoz",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_114",
+              "session": "2024-06-27",
+              "topic": "Zgodność ze Studium (druk nr 65-1);",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_124",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 67-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_125",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru D – rejon ul. G",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_129",
+              "session": "2024-06-27",
+              "topic": "uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lublin – część IV dla obszaru F – rejon ul. M",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_130",
+              "session": "2024-06-27",
+              "topic": "zgodność ze Studium (druk nr 69-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_131",
+              "session": "2024-06-27",
+              "topic": "Treść załącznika nr 3 (druk nr 69-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "vote_132",
+              "session": "2024-06-27",
+              "topic": "Sposób realizacji inwestycji (...) (druk nr 69-1);",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            }
+          ],
           "has_voting_data": true,
           "has_activity_data": false,
           "roles": [],

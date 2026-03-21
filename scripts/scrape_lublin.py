@@ -43,6 +43,9 @@ except ImportError:
 
 try:
     import fitz
+except ImportError:
+    print("Zainstaluj: pip install pymupdf")
+    sys.exit(1)
 
 def compact_named_votes(output):
     """Convert named_votes from string arrays to indexed format for smaller JSON."""
@@ -89,10 +92,6 @@ def save_split_output(output, out_path):
     with open(out_path, "w", encoding="utf-8") as f:
         _json.dump(index, f, ensure_ascii=False, separators=(",", ":"))
 
-
-except ImportError:
-    print("Zainstaluj: pip install pymupdf")
-    sys.exit(1)
 
 BIP_BASE = "https://bip.lublin.eu/"
 SESSIONS_URLS = [
@@ -385,9 +384,12 @@ def scrape_session_pdf_links(session: dict) -> list[dict]:
 
 def download_pdf(pdf_url: str, cache_dir: Path) -> Path | None:
     """Download a PDF from URL to cache directory."""
-    # Extract ID from URL for filename
-    m = re.search(r'/(\d+)(?:\.pdf)?$', pdf_url)
-    att_id = m.group(1) if m else "unknown"
+    import hashlib
+    # Extract ID from URL for filename; fall back to URL hash
+    m = re.search(r'/attachments/download/(\d+)', pdf_url)
+    if not m:
+        m = re.search(r'/(\d+)(?:\.pdf)?$', pdf_url)
+    att_id = m.group(1) if m else hashlib.md5(pdf_url.encode()).hexdigest()[:12]
 
     filename = f"protocol_{att_id}.pdf"
     path = cache_dir / filename
@@ -504,6 +506,11 @@ def parse_vote_from_pdf(pdf_path: Path) -> list[dict]:
 
         for name_raw, vote_raw in pairs:
             name = name_raw.strip()
+            # Normalize stray spaces around hyphens (e.g. "Szczygieł- Mitrus")
+            name = re.sub(r'\s*-\s*', '-', name)
+            # Fix known BIP typos
+            if name == "Anna Rytka":
+                name = "Anna Ryfka"
             vote = vote_raw.strip().upper()
 
             if not name:
@@ -536,25 +543,35 @@ def parse_vote_from_pdf(pdf_path: Path) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def load_profiles(profiles_path: str) -> dict:
-    """Load profiles.json with councilor → club mapping."""
-    path = Path(profiles_path)
-    if not path.exists():
-        print(f"  UWAGA: Brak {profiles_path} — kluby będą oznaczone jako '?'")
-        return {}
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
+    """Load profiles.json with councilor → club mapping.
 
+    Club assignments from the COUNCILORS dict take priority over
+    whatever is stored in profiles.json (to fix stale '?' values).
+    """
     result = {}
-    for p in data.get("profiles", []):
-        name = p["name"]
-        kadencje = p.get("kadencje", {})
-        if kadencje:
-            latest = list(kadencje.values())[-1]
-            result[name] = {
-                "name": name,
-                "club": latest.get("club", "?"),
-                "district": latest.get("okręg"),
-            }
+    path = Path(profiles_path)
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        for p in data.get("profiles", []):
+            name = p["name"]
+            kadencje = p.get("kadencje", {})
+            if kadencje:
+                latest = list(kadencje.values())[-1]
+                club = COUNCILORS.get(name, latest.get("club", "?"))
+                result[name] = {
+                    "name": name,
+                    "club": club,
+                    "district": latest.get("okręg"),
+                }
+    else:
+        print(f"  UWAGA: Brak {profiles_path} — biorę kluby z COUNCILORS dict")
+
+    # Add any councilors from COUNCILORS dict that are not yet in profiles
+    for name, club in COUNCILORS.items():
+        if name not in result:
+            result[name] = {"name": name, "club": club, "district": None}
+
     return result
 
 
