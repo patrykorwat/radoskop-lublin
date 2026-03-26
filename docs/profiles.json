@@ -9,13 +9,13 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 84.7,
-          "votes_za": 646,
-          "votes_przeciw": 76,
-          "votes_wstrzymal": 95,
-          "votes_brak": 105,
+          "votes_za": 673,
+          "votes_przeciw": 82,
+          "votes_wstrzymal": 99,
+          "votes_brak": 127,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 125,
+          "votes_total": 981,
+          "rebellion_count": 131,
           "rebellions": [
             {
               "vote_id": "vote_43",
@@ -175,13 +175,13 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 98.9,
-          "votes_za": 856,
-          "votes_przeciw": 51,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 909,
+          "votes_przeciw": 53,
           "votes_wstrzymal": 4,
-          "votes_brak": 11,
+          "votes_brak": 15,
           "votes_nieobecny": 0,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 10,
           "rebellions": [
             {
@@ -241,14 +241,14 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "przeciw",
@@ -273,12 +273,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 98.9,
-          "votes_za": 844,
-          "votes_przeciw": 43,
+          "votes_za": 896,
+          "votes_przeciw": 45,
           "votes_wstrzymal": 8,
-          "votes_brak": 27,
+          "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 10,
           "rebellions": [
             {
@@ -338,14 +338,14 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_872",
+              "vote_id": "vote_931",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku.",
               "their_vote": "wstrzymal_sie",
@@ -369,14 +369,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 95.4,
-          "votes_za": 820,
-          "votes_przeciw": 45,
-          "votes_wstrzymal": 41,
+          "zgodnosc_z_klubem": 95.3,
+          "votes_za": 874,
+          "votes_przeciw": 47,
+          "votes_wstrzymal": 44,
           "votes_brak": 14,
           "votes_nieobecny": 2,
-          "votes_total": 922,
-          "rebellion_count": 42,
+          "votes_total": 981,
+          "rebellion_count": 45,
           "rebellions": [
             {
               "vote_id": "vote_3",
@@ -536,14 +536,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 87.3,
-          "votes_za": 642,
-          "votes_przeciw": 68,
-          "votes_wstrzymal": 177,
+          "zgodnosc_z_klubem": 87.6,
+          "votes_za": 692,
+          "votes_przeciw": 74,
+          "votes_wstrzymal": 180,
           "votes_brak": 35,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 113,
+          "votes_total": 981,
+          "rebellion_count": 117,
           "rebellions": [
             {
               "vote_id": "vote_93",
@@ -703,14 +703,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 87.4,
-          "votes_za": 710,
-          "votes_przeciw": 77,
-          "votes_wstrzymal": 110,
+          "zgodnosc_z_klubem": 87.9,
+          "votes_za": 763,
+          "votes_przeciw": 81,
+          "votes_wstrzymal": 112,
           "votes_brak": 25,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 113,
+          "votes_total": 981,
+          "rebellion_count": 116,
           "rebellions": [
             {
               "vote_id": "vote_34",
@@ -868,15 +868,15 @@
       "kadencje": {
         "2024-2029": {
           "club": "KO",
-          "frekwencja": 93.8,
-          "aktywnosc": 94.0,
+          "frekwencja": 94.1,
+          "aktywnosc": 94.4,
           "zgodnosc_z_klubem": 97.8,
-          "votes_za": 534,
+          "votes_za": 548,
           "votes_przeciw": 39,
           "votes_wstrzymal": 7,
-          "votes_brak": 287,
+          "votes_brak": 332,
           "votes_nieobecny": 55,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 13,
           "rebellions": [
             {
@@ -957,14 +957,14 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "za",
@@ -988,14 +988,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 84.8,
-          "votes_za": 652,
-          "votes_przeciw": 142,
-          "votes_wstrzymal": 113,
-          "votes_brak": 15,
+          "zgodnosc_z_klubem": 84.9,
+          "votes_za": 693,
+          "votes_przeciw": 148,
+          "votes_wstrzymal": 124,
+          "votes_brak": 16,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 138,
+          "votes_total": 981,
+          "rebellion_count": 146,
           "rebellions": [
             {
               "vote_id": "vote_35",
@@ -1155,14 +1155,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 96.8,
-          "votes_za": 805,
+          "zgodnosc_z_klubem": 96.7,
+          "votes_za": 859,
           "votes_przeciw": 44,
-          "votes_wstrzymal": 23,
-          "votes_brak": 50,
+          "votes_wstrzymal": 26,
+          "votes_brak": 52,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 28,
+          "votes_total": 981,
+          "rebellion_count": 31,
           "rebellions": [
             {
               "vote_id": "vote_41",
@@ -1320,15 +1320,15 @@
       "kadencje": {
         "2024-2029": {
           "club": "KO",
-          "frekwencja": 93.8,
-          "aktywnosc": 96.2,
-          "zgodnosc_z_klubem": 98.4,
-          "votes_za": 780,
-          "votes_przeciw": 44,
+          "frekwencja": 94.1,
+          "aktywnosc": 96.4,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 837,
+          "votes_przeciw": 46,
           "votes_wstrzymal": 12,
           "votes_brak": 51,
           "votes_nieobecny": 35,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 13,
           "rebellions": [
             {
@@ -1409,14 +1409,14 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "przeciw",
@@ -1439,15 +1439,15 @@
         "2024-2029": {
           "club": "PiS",
           "frekwencja": 100.0,
-          "aktywnosc": 99.0,
-          "zgodnosc_z_klubem": 81.9,
-          "votes_za": 514,
-          "votes_przeciw": 94,
-          "votes_wstrzymal": 178,
+          "aktywnosc": 99.1,
+          "zgodnosc_z_klubem": 80.1,
+          "votes_za": 540,
+          "votes_przeciw": 101,
+          "votes_wstrzymal": 204,
           "votes_brak": 127,
           "votes_nieobecny": 9,
-          "votes_total": 922,
-          "rebellion_count": 142,
+          "votes_total": 981,
+          "rebellion_count": 168,
           "rebellions": [
             {
               "vote_id": "vote_45",
@@ -1607,14 +1607,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 99.1,
-          "votes_za": 857,
-          "votes_przeciw": 52,
-          "votes_wstrzymal": 5,
-          "votes_brak": 8,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 911,
+          "votes_przeciw": 53,
+          "votes_wstrzymal": 7,
+          "votes_brak": 10,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 8,
+          "votes_total": 981,
+          "rebellion_count": 10,
           "rebellions": [
             {
               "vote_id": "vote_260",
@@ -1659,14 +1659,28 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_875",
+              "session": "2025-11-20",
+              "topic": "wyboru przewodniczącego komisji do dokonania zniszczenia zgłoszeń kandydatów na ławników do Sądu Okręgowego w Lublinie w",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "przeciw",
@@ -1688,15 +1702,15 @@
       "kadencje": {
         "2024-2029": {
           "club": "KO",
-          "frekwencja": 87.5,
-          "aktywnosc": 88.6,
-          "zgodnosc_z_klubem": 98.4,
-          "votes_za": 756,
-          "votes_przeciw": 49,
+          "frekwencja": 88.2,
+          "aktywnosc": 89.3,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 813,
+          "votes_przeciw": 51,
           "votes_wstrzymal": 3,
           "votes_brak": 9,
           "votes_nieobecny": 105,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 13,
           "rebellions": [
             {
@@ -1808,14 +1822,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 97.1,
-          "votes_za": 761,
-          "votes_przeciw": 37,
-          "votes_wstrzymal": 25,
-          "votes_brak": 99,
+          "zgodnosc_z_klubem": 97.2,
+          "votes_za": 815,
+          "votes_przeciw": 39,
+          "votes_wstrzymal": 26,
+          "votes_brak": 101,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 24,
+          "votes_total": 981,
+          "rebellion_count": 25,
           "rebellions": [
             {
               "vote_id": "vote_33",
@@ -1976,12 +1990,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 99.0,
-          "votes_za": 831,
-          "votes_przeciw": 40,
+          "votes_za": 888,
+          "votes_przeciw": 42,
           "votes_wstrzymal": 13,
           "votes_brak": 38,
           "votes_nieobecny": 0,
-          "votes_total": 922,
+          "votes_total": 981,
           "rebellion_count": 9,
           "rebellions": [
             {
@@ -2034,14 +2048,14 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "wstrzymal_sie",
@@ -2066,13 +2080,13 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 98.1,
-          "votes_za": 845,
-          "votes_przeciw": 39,
-          "votes_wstrzymal": 19,
+          "votes_za": 902,
+          "votes_przeciw": 40,
+          "votes_wstrzymal": 20,
           "votes_brak": 19,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 17,
+          "votes_total": 981,
+          "rebellion_count": 18,
           "rebellions": [
             {
               "vote_id": "vote_84",
@@ -2180,14 +2194,21 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "wstrzymal_sie",
@@ -2211,14 +2232,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 96.0,
-          "votes_za": 801,
+          "zgodnosc_z_klubem": 95.9,
+          "votes_za": 853,
           "votes_przeciw": 50,
-          "votes_wstrzymal": 27,
-          "votes_brak": 44,
+          "votes_wstrzymal": 29,
+          "votes_brak": 49,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 35,
+          "votes_total": 981,
+          "rebellion_count": 38,
           "rebellions": [
             {
               "vote_id": "vote_30",
@@ -2378,14 +2399,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 99.5,
-          "zgodnosc_z_klubem": 85.6,
-          "votes_za": 644,
-          "votes_przeciw": 71,
-          "votes_wstrzymal": 149,
+          "zgodnosc_z_klubem": 86.0,
+          "votes_za": 695,
+          "votes_przeciw": 75,
+          "votes_wstrzymal": 153,
           "votes_brak": 53,
           "votes_nieobecny": 5,
-          "votes_total": 922,
-          "rebellion_count": 124,
+          "votes_total": 981,
+          "rebellion_count": 129,
           "rebellions": [
             {
               "vote_id": "vote_34",
@@ -2545,14 +2566,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 98.0,
-          "votes_za": 857,
-          "votes_przeciw": 37,
-          "votes_wstrzymal": 22,
+          "zgodnosc_z_klubem": 97.9,
+          "votes_za": 913,
+          "votes_przeciw": 38,
+          "votes_wstrzymal": 24,
           "votes_brak": 6,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 18,
+          "votes_total": 981,
+          "rebellion_count": 20,
           "rebellions": [
             {
               "vote_id": "vote_37",
@@ -2667,14 +2688,28 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "wstrzymal_sie",
@@ -2696,16 +2731,16 @@
       "kadencje": {
         "2024-2029": {
           "club": "KO",
-          "frekwencja": 93.8,
-          "aktywnosc": 94.5,
-          "zgodnosc_z_klubem": 99.0,
-          "votes_za": 820,
-          "votes_przeciw": 43,
-          "votes_wstrzymal": 6,
-          "votes_brak": 2,
+          "frekwencja": 94.1,
+          "aktywnosc": 94.8,
+          "zgodnosc_z_klubem": 98.9,
+          "votes_za": 875,
+          "votes_przeciw": 45,
+          "votes_wstrzymal": 7,
+          "votes_brak": 3,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 9,
+          "votes_total": 981,
+          "rebellion_count": 10,
           "rebellions": [
             {
               "vote_id": "vote_56",
@@ -2764,7 +2799,14 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_874",
+              "session": "2025-11-20",
+              "topic": "powołania komisji do dokonania zniszczenia zgłoszeń kandydatów na ławników do Sądu Okręgowego w Lublinie w wyborach uzup",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "przeciw",
@@ -2786,16 +2828,16 @@
       "kadencje": {
         "2024-2029": {
           "club": "KO",
-          "frekwencja": 93.8,
-          "aktywnosc": 96.2,
-          "zgodnosc_z_klubem": 98.3,
-          "votes_za": 727,
-          "votes_przeciw": 41,
-          "votes_wstrzymal": 12,
+          "frekwencja": 94.1,
+          "aktywnosc": 96.4,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 783,
+          "votes_przeciw": 42,
+          "votes_wstrzymal": 14,
           "votes_brak": 107,
           "votes_nieobecny": 35,
-          "votes_total": 922,
-          "rebellion_count": 13,
+          "votes_total": 981,
+          "rebellion_count": 16,
           "rebellions": [
             {
               "vote_id": "vote_39",
@@ -2868,21 +2910,42 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_842",
+              "session": "2025-11-20",
+              "topic": "zamiaru przekształcenia Szkoły Podstawowej nr 20 im. Jarosława Dąbrowskiego w Lublinie (druk nr 611-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_872",
+              "vote_id": "vote_931",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "vote_882",
+              "vote_id": "vote_941",
               "session": "2026-02-05",
               "topic": "skargi na działania Dyrektora Miejskiego Urzędu Pracy w Lublinie (druk nr 711-1) - skarga niezasadna;",
               "their_vote": "wstrzymal_sie",
@@ -2906,14 +2969,14 @@
           "club": "KO",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 99.0,
-          "votes_za": 823,
-          "votes_przeciw": 47,
+          "zgodnosc_z_klubem": 98.8,
+          "votes_za": 878,
+          "votes_przeciw": 49,
           "votes_wstrzymal": 11,
-          "votes_brak": 41,
+          "votes_brak": 43,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 9,
+          "votes_total": 981,
+          "rebellion_count": 11,
           "rebellions": [
             {
               "vote_id": "vote_30",
@@ -2958,21 +3021,35 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_866",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_862",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej i inwestycji towarzyszącej przy ul. Grabowej/w pobl. ul. Nałęczowskiej w Lublinie (dr",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "vote_925",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie ulic: Nałęc",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "vote_868",
+              "vote_id": "vote_927",
               "session": "2025-12-18",
               "topic": "kandydatura Radnego R. Skrzetuskiego",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "wstrzymal_sie",
@@ -2997,13 +3074,13 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 98.7,
-          "votes_za": 858,
-          "votes_przeciw": 51,
-          "votes_wstrzymal": 11,
+          "votes_za": 915,
+          "votes_przeciw": 52,
+          "votes_wstrzymal": 12,
           "votes_brak": 2,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 12,
+          "votes_total": 981,
+          "rebellion_count": 13,
           "rebellions": [
             {
               "vote_id": "vote_260",
@@ -3076,14 +3153,21 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "wstrzymal_sie",
@@ -3107,14 +3191,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 77.9,
-          "votes_za": 490,
-          "votes_przeciw": 137,
-          "votes_wstrzymal": 56,
-          "votes_brak": 239,
+          "zgodnosc_z_klubem": 78.2,
+          "votes_za": 529,
+          "votes_przeciw": 151,
+          "votes_wstrzymal": 59,
+          "votes_brak": 242,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 151,
+          "votes_total": 981,
+          "rebellion_count": 161,
           "rebellions": [
             {
               "vote_id": "vote_34",
@@ -3274,14 +3358,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 81.1,
-          "votes_za": 621,
-          "votes_przeciw": 108,
-          "votes_wstrzymal": 191,
+          "zgodnosc_z_klubem": 81.7,
+          "votes_za": 666,
+          "votes_przeciw": 117,
+          "votes_wstrzymal": 196,
           "votes_brak": 2,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 174,
+          "votes_total": 981,
+          "rebellion_count": 179,
           "rebellions": [
             {
               "vote_id": "vote_26",
@@ -3441,14 +3525,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 87.3,
-          "votes_za": 708,
-          "votes_przeciw": 70,
-          "votes_wstrzymal": 113,
-          "votes_brak": 31,
+          "zgodnosc_z_klubem": 87.9,
+          "votes_za": 760,
+          "votes_przeciw": 74,
+          "votes_wstrzymal": 115,
+          "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 113,
+          "votes_total": 981,
+          "rebellion_count": 115,
           "rebellions": [
             {
               "vote_id": "vote_34",
@@ -3609,13 +3693,13 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 72.8,
-          "votes_za": 407,
-          "votes_przeciw": 81,
-          "votes_wstrzymal": 288,
-          "votes_brak": 146,
+          "votes_za": 428,
+          "votes_przeciw": 87,
+          "votes_wstrzymal": 300,
+          "votes_brak": 166,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 211,
+          "votes_total": 981,
+          "rebellion_count": 222,
           "rebellions": [
             {
               "vote_id": "vote_43",
@@ -3775,14 +3859,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 82.4,
-          "votes_za": 566,
-          "votes_przeciw": 89,
-          "votes_wstrzymal": 235,
+          "zgodnosc_z_klubem": 81.3,
+          "votes_za": 598,
+          "votes_przeciw": 95,
+          "votes_wstrzymal": 256,
           "votes_brak": 32,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 157,
+          "votes_total": 981,
+          "rebellion_count": 177,
           "rebellions": [
             {
               "vote_id": "vote_51",
@@ -3940,15 +4024,15 @@
       "kadencje": {
         "2024-2029": {
           "club": "PiS",
-          "frekwencja": 100.0,
-          "aktywnosc": 98.9,
+          "frekwencja": 94.1,
+          "aktywnosc": 93.0,
           "zgodnosc_z_klubem": 85.1,
           "votes_za": 534,
           "votes_przeciw": 88,
           "votes_wstrzymal": 149,
           "votes_brak": 141,
-          "votes_nieobecny": 10,
-          "votes_total": 922,
+          "votes_nieobecny": 69,
+          "votes_total": 981,
           "rebellion_count": 115,
           "rebellions": [
             {
@@ -4110,13 +4194,13 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 98.8,
-          "votes_za": 858,
-          "votes_przeciw": 55,
+          "votes_za": 908,
+          "votes_przeciw": 56,
           "votes_wstrzymal": 2,
-          "votes_brak": 7,
+          "votes_brak": 15,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 11,
+          "votes_total": 981,
+          "rebellion_count": 12,
           "rebellions": [
             {
               "vote_id": "vote_32",
@@ -4182,14 +4266,21 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "vote_870",
+              "vote_id": "vote_861",
+              "session": "2025-11-20",
+              "topic": "ustalenia inwestycji mieszkaniowej przy ul. Młyńskiej w Lublinie (druk nr 578-1);",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "vote_929",
               "session": "2025-12-18",
               "topic": "wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego miasta Lublin w rejonie al. Solidar",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "vote_871",
+              "vote_id": "vote_930",
               "session": "2025-12-18",
               "topic": "Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Radnego B. Margula - zmiana terminu 30.04 n",
               "their_vote": "przeciw",
@@ -4213,14 +4304,14 @@
           "club": "PiS",
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 82.6,
-          "votes_za": 578,
-          "votes_przeciw": 98,
-          "votes_wstrzymal": 187,
-          "votes_brak": 59,
+          "zgodnosc_z_klubem": 81.9,
+          "votes_za": 610,
+          "votes_przeciw": 108,
+          "votes_wstrzymal": 203,
+          "votes_brak": 60,
           "votes_nieobecny": 0,
-          "votes_total": 922,
-          "rebellion_count": 150,
+          "votes_total": 981,
+          "rebellion_count": 167,
           "rebellions": [
             {
               "vote_id": "vote_36",
