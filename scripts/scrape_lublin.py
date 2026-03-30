@@ -915,10 +915,11 @@ def scrape(output_path: str, profiles_path: str):
                 "councilors": councilors,
                 "sessions": sessions_out,
                 "votes": all_votes,
-                "similarity": {
-                    "top": top_pairs,
-                    "bottom": bottom_pairs,
-                }
+                "total_sessions": len(sessions_out),
+                "total_votes": len(all_votes),
+                "total_councilors": len(councilors),
+                "similarity_top": top_pairs,
+                "similarity_bottom": bottom_pairs,
             }
         ]
     }
