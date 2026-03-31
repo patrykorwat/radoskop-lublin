@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Radoskop Lublin</title>
+  <subtitle>Aktualnosci z Rady Miasta Lublina. Glosowania, sesje, rebelie.</subtitle>
+  <link href="https://lublin.radoskop.pl/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://lublin.radoskop.pl/" rel="alternate" type="text/html"/>
+  <id>https://lublin.radoskop.pl/</id>
+  <updated>2026-03-31T13:26:21Z</updated>
+  <author>
+    <name>Radoskop</name>
+    <uri>https://radoskop.pl</uri>
+  </author>
+  <entry>
+    <title>Sesja XVII Rady Miasta Lublin</title>
+    <link href="https://lublin.radoskop.pl/sesja/XVII/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/sesja/XVII/</id>
+    <published>2026-02-05T12:00:00+01:00</published>
+    <updated>2026-02-05T12:00:00+01:00</updated>
+    <summary type="html">50 glosowan. 30 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Monika Kwiatkowska (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://lublin.radoskop.pl/profil/monika-kwiatkowska/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/profil/monika-kwiatkowska/</id>
+    <published>2026-02-05T12:00:00+01:00</published>
+    <updated>2026-02-05T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: skargi na działania Dyrektora Miejskiego Urzędu Pracy w Lublinie (druk nr 711-1) - skarga niezasadna</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o zamknięcie dyskusji</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_830/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_830/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 19, przeciw 9, wstrzym. 2). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: petycji o podjęcie przez Radę Miasta Lublin uchwały w sprawie ustalenia kierunkó</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_831/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_831/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 13, wstrzym. 0). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: kandydatura Radnego B. Margula</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_867/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_867/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 16, przeciw 12, wstrzym. 1). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: kandydatura Radnego R. Skrzetuskiego</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_868/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_868/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 7, wstrzym. 7). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wyrażenia zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyj</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_870/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_870/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 6, przeciw 17, wstrzym. 5). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Ustalenie harmonogramu posiedzeń Rady Miasta Lublin w 2026 roku - propozycja Rad</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_871/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_871/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 10, przeciw 15, wstrzym. 5). Sesja XVI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XVI Rady Miasta Lublin</title>
+    <link href="https://lublin.radoskop.pl/sesja/XVI/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/sesja/XVI/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">55 glosowan. 2 odrzuconych. 6 kontrowersyjnych. 30 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>13 radnych glosowalo wbrew klubowi</title>
+    <link href="https://lublin.radoskop.pl/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/</id>
+    <published>2025-12-18T12:00:00+01:00</published>
+    <updated>2025-12-18T12:00:00+01:00</updated>
+    <summary type="html">Anna Glijer, Anna Ryfka, Elżbieta Dados, Jarosław Pakuła, Kamila Florek, Magdalena Kamińska, Magdalena Szczygieł-Mitrus, Marcin Wroński.... Sesja z 2025-12-18.</summary>
+    <category term="rebellion_summary"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o zamknięcie dyskusji</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_754/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_754/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 12, przeciw 6, wstrzym. 9). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: określenia wysokości rocznych stawek podatku od nieruchomości na 2026 rok (druk </title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_761/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_761/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 19, przeciw 9, wstrzym. 2). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: zmiany uchwały nr 998/XXXVIII/2017 Rady Miasta Lublin z dnia 21 grudnia 2017 r. </title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_778/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_778/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 7, wstrzym. 2). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Zgodność ze Studium (druk nr 551-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_792/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_792/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 16, przeciw 7, wstrzym. 5). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Sposób rozpatrzenia uwag (druk nr 551-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_793/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_793/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 10, wstrzym. 2). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Sposób realizacji inwestycji (druk nr 551-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_794/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_794/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 7, wstrzym. 6). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: uchwalenia miejscowego planu zagospodarowania przestrzennego miasta Lublin – czę</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_795/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_795/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 12, wstrzym. 0). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: prop. przedst. - Jurkowski</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_797/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_797/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 8, wstrzym. 2). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: prop, przedst. - M. Jakóbczyk</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_798/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_798/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 12, przeciw 4, wstrzym. 13). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: prop. przedst. - K. Wcisło</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_801/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_801/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 8, wstrzym. 3). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: prop. przedst. - R. Skrzetuski</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_802/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_802/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 12, przeciw 6, wstrzym. 11). Sesja XIV.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XIV Rady Miasta Lublin</title>
+    <link href="https://lublin.radoskop.pl/sesja/XIV/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/sesja/XIV/</id>
+    <published>2025-10-23T12:00:00+01:00</published>
+    <updated>2025-10-23T12:00:00+01:00</updated>
+    <summary type="html">70 glosowan. 11 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o przesunięie punktu 7.21. jako pkt 1 porz. obrad</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_681/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_681/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 10, przeciw 17, wstrzym. 2). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek Radnego R. Derewendy</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_691/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_691/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 14, przeciw 17, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Uwagi - zał. nr 3 (druk nr 489-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_711/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_711/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 4, wstrzym. 7). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: uchwalenia zmiany miejscowego planu zagospodarowania przestrzennego miasta Lubli</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_713/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_713/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 4, wstrzym. 8). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Uwagi - zał. nr 3 (druk nr 494-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_729/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_729/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 6, wstrzym. 6). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Sposób realizacji inwestycji (...) - zał. nr 4 (druk nr 494-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_730/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_730/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 5, wstrzym. 6). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: uchwalenia miejscowego planu zagospodarowania przestrzennego miasta Lublin – czę</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_731/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_731/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 17, przeciw 5, wstrzym. 6). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o obradowanie be przerwy obiadowej</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_736/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_736/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 12, wstrzym. 3). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosk o zarządzenie przerwy</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_737/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_737/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 13, przeciw 18, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o zamknięcie listy mówców i przejście do głosowania</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_738/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_738/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 13, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Zgodność ze Studium (druk nr 503-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_739/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_739/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 11, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Sposób realizacji inwestycji (...) - zał. nr 2 (druk nr 503-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_740/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_740/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 11, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: uchwalenia zintegrowanego planu inwestycyjnego dla Obszarów Nr 1 i Nr 2, położon</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_741/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_741/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 11, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o udzielenie głosu Mieszkance</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_742/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_742/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 11, przeciw 16, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o udzielenie głosu mieszkańcowi</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_743/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_743/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 12, przeciw 18, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o zamknięcie dyskusji</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_744/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_744/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 12, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: nabycia oraz przekazania na rzecz Gminy Lublin nieruchomości położonych w Lublin</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_745/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_745/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 6, wstrzym. 7). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XIII Rady Miasta Lublin</title>
+    <link href="https://lublin.radoskop.pl/sesja/XIII/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/sesja/XIII/</id>
+    <published>2025-09-04T12:00:00+01:00</published>
+    <updated>2025-09-04T12:00:00+01:00</updated>
+    <summary type="html">71 glosowan. 5 odrzuconych. 17 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosek o dopuszczenie A, Filipowicza do głosu w trybie zdalnym</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_639/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_639/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 16, wstrzym. 0). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Głosowanie w sprawie udzielenia wotum zaufania dla Prezydenta Miasta Lublin i po</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_640/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_640/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 13, wstrzym. 0). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Podjęcie uchwały w sprawie rozpatrzenia i zatwierdzenia sprawozdania finansowego</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_641/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_641/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 13, wstrzym. 0). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Podjęcie uchwały w sprawie absolutorium dla Prezydenta Miasta Lublin za 2024 rok</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_642/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_642/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 18, przeciw 13, wstrzym. 0). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: poprawka Radnego A. Pruszkowskiego (druk nr 455-1)</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_658/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_658/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 13, przeciw 14, wstrzym. 3). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wzoru deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi skład</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_661/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_661/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 19, przeciw 3, wstrzym. 8). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wyrażenia zgody na sprzedaż części nieruchomości zabudowanej stanowiącej własnoś</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_672/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_672/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 15, przeciw 12, wstrzym. 3). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: kand. Radnej E. .Boczkowskiej (druk nr 478-1).</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_674/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_674/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 13, przeciw 7, wstrzym. 9). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: kand. Radnego M, Bubicza (druk nr 478-1).</title>
+    <link href="https://lublin.radoskop.pl/glosowanie/vote_675/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/glosowanie/vote_675/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 16, przeciw 11, wstrzym. 2). Sesja XII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XII Rady Miasta Lublin</title>
+    <link href="https://lublin.radoskop.pl/sesja/XII/" rel="alternate" type="text/html"/>
+    <id>https://lublin.radoskop.pl/sesja/XII/</id>
+    <published>2025-06-26T12:00:00+01:00</published>
+    <updated>2025-06-26T12:00:00+01:00</updated>
+    <summary type="html">40 glosowan. 2 odrzuconych. 9 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+</feed>
